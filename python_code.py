@@ -1,3 +1,5 @@
+### this file is being used for the capstone project
+
 import pandas as pd
 import numpy as np 
 
